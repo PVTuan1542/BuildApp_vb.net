@@ -1,0 +1,440 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class QLSanPham
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.tbSL = New System.Windows.Forms.TextBox()
+        Me.tbGia = New System.Windows.Forms.TextBox()
+        Me.tbTen = New System.Windows.Forms.TextBox()
+        Me.tbLoai = New System.Windows.Forms.TextBox()
+        Me.TbMsp = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.btLuu = New System.Windows.Forms.Button()
+        Me.btThem = New System.Windows.Forms.Button()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.bt_Vecuoi = New System.Windows.Forms.Button()
+        Me.bt_Vesau = New System.Windows.Forms.Button()
+        Me.bt_Vetruoc = New System.Windows.Forms.Button()
+        Me.bt_Vedau = New System.Windows.Forms.Button()
+        Me.btXoa = New System.Windows.Forms.Button()
+        Me.btSua = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Panel2.SuspendLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'tbSL
+        '
+        Me.tbSL.Location = New System.Drawing.Point(985, 271)
+        Me.tbSL.Name = "tbSL"
+        Me.tbSL.Size = New System.Drawing.Size(152, 37)
+        Me.tbSL.TabIndex = 130
+        '
+        'tbGia
+        '
+        Me.tbGia.Location = New System.Drawing.Point(579, 266)
+        Me.tbGia.Name = "tbGia"
+        Me.tbGia.Size = New System.Drawing.Size(132, 37)
+        Me.tbGia.TabIndex = 129
+        '
+        'tbTen
+        '
+        Me.tbTen.Location = New System.Drawing.Point(579, 206)
+        Me.tbTen.Name = "tbTen"
+        Me.tbTen.Size = New System.Drawing.Size(252, 37)
+        Me.tbTen.TabIndex = 128
+        '
+        'tbLoai
+        '
+        Me.tbLoai.Location = New System.Drawing.Point(219, 269)
+        Me.tbLoai.Name = "tbLoai"
+        Me.tbLoai.Size = New System.Drawing.Size(169, 37)
+        Me.tbLoai.TabIndex = 127
+        '
+        'TbMsp
+        '
+        Me.TbMsp.Location = New System.Drawing.Point(219, 206)
+        Me.TbMsp.Name = "TbMsp"
+        Me.TbMsp.Size = New System.Drawing.Size(169, 37)
+        Me.TbMsp.TabIndex = 126
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.BackColor = System.Drawing.Color.Transparent
+        Me.Label9.ForeColor = System.Drawing.Color.Blue
+        Me.Label9.Location = New System.Drawing.Point(817, 277)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(151, 29)
+        Me.Label9.TabIndex = 125
+        Me.Label9.Text = "Số lương còn"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
+        Me.Label8.ForeColor = System.Drawing.Color.Blue
+        Me.Label8.Location = New System.Drawing.Point(438, 274)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(48, 29)
+        Me.Label8.TabIndex = 124
+        Me.Label8.Text = "Giá"
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.BackColor = System.Drawing.Color.Transparent
+        Me.Label7.ForeColor = System.Drawing.Color.Blue
+        Me.Label7.Location = New System.Drawing.Point(96, 274)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(59, 29)
+        Me.Label7.TabIndex = 123
+        Me.Label7.Text = "Loại"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.BackColor = System.Drawing.Color.Transparent
+        Me.Label3.ForeColor = System.Drawing.Color.Blue
+        Me.Label3.Location = New System.Drawing.Point(437, 214)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(90, 29)
+        Me.Label3.TabIndex = 122
+        Me.Label3.Text = "Tên SP"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
+        Me.Label2.ForeColor = System.Drawing.Color.Blue
+        Me.Label2.Location = New System.Drawing.Point(96, 214)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(84, 29)
+        Me.Label2.TabIndex = 121
+        Me.Label2.Text = "Ma SP"
+        '
+        'Panel2
+        '
+        Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Panel2.Controls.Add(Me.PictureBox2)
+        Me.Panel2.Controls.Add(Me.Label4)
+        Me.Panel2.Controls.Add(Me.Label5)
+        Me.Panel2.Controls.Add(Me.PictureBox3)
+        Me.Panel2.Controls.Add(Me.Label6)
+        Me.Panel2.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Panel2.Location = New System.Drawing.Point(10, 6)
+        Me.Panel2.Name = "Panel2"
+        Me.Panel2.Size = New System.Drawing.Size(1197, 106)
+        Me.Panel2.TabIndex = 109
+        '
+        'PictureBox2
+        '
+        Me.PictureBox2.BackColor = System.Drawing.SystemColors.Control
+        Me.PictureBox2.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.trangchu
+        Me.PictureBox2.Location = New System.Drawing.Point(110, 1)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(97, 106)
+        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox2.TabIndex = 4
+        Me.PictureBox2.TabStop = False
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label4.Font = New System.Drawing.Font("Times New Roman", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.Blue
+        Me.Label4.Location = New System.Drawing.Point(540, 62)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(313, 22)
+        Me.Label4.TabIndex = 3
+        Me.Label4.Text = "ĐC: 129 Duy Tân, Hải Châu, Đà Nẵng"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label5.Font = New System.Drawing.Font("Times New Roman", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.ForeColor = System.Drawing.Color.Blue
+        Me.Label5.Location = New System.Drawing.Point(377, 62)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(157, 22)
+        Me.Label5.TabIndex = 2
+        Me.Label5.Text = "SĐT: 0763639952"
+        '
+        'PictureBox3
+        '
+        Me.PictureBox3.BackColor = System.Drawing.SystemColors.Control
+        Me.PictureBox3.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.logo
+        Me.PictureBox3.Location = New System.Drawing.Point(16, 2)
+        Me.PictureBox3.Name = "PictureBox3"
+        Me.PictureBox3.Size = New System.Drawing.Size(88, 105)
+        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox3.TabIndex = 1
+        Me.PictureBox3.TabStop = False
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.BackColor = System.Drawing.Color.Transparent
+        Me.Label6.Font = New System.Drawing.Font("Times New Roman", 20.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.ForeColor = System.Drawing.Color.Blue
+        Me.Label6.Location = New System.Drawing.Point(456, 15)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(267, 45)
+        Me.Label6.TabIndex = 0
+        Me.Label6.Text = "Store VinMart"
+        '
+        'btLuu
+        '
+        Me.btLuu.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.btLuu.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btLuu.ForeColor = System.Drawing.Color.Blue
+        Me.btLuu.Location = New System.Drawing.Point(500, 329)
+        Me.btLuu.Name = "btLuu"
+        Me.btLuu.Size = New System.Drawing.Size(105, 43)
+        Me.btLuu.TabIndex = 112
+        Me.btLuu.Text = "Lưu "
+        Me.btLuu.UseVisualStyleBackColor = False
+        '
+        'btThem
+        '
+        Me.btThem.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.btThem.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btThem.ForeColor = System.Drawing.Color.Blue
+        Me.btThem.Location = New System.Drawing.Point(348, 329)
+        Me.btThem.Name = "btThem"
+        Me.btThem.Size = New System.Drawing.Size(105, 43)
+        Me.btThem.TabIndex = 111
+        Me.btThem.Text = "Thêm "
+        Me.btThem.UseVisualStyleBackColor = False
+        '
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(177, 464)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.RowHeadersWidth = 62
+        Me.DataGridView1.RowTemplate.Height = 28
+        Me.DataGridView1.Size = New System.Drawing.Size(930, 195)
+        Me.DataGridView1.TabIndex = 120
+        '
+        'Button5
+        '
+        Me.Button5.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Button5.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button5.ForeColor = System.Drawing.Color.Blue
+        Me.Button5.Location = New System.Drawing.Point(154, 390)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(142, 58)
+        Me.Button5.TabIndex = 119
+        Me.Button5.Text = "Thống kê"
+        Me.Button5.UseVisualStyleBackColor = False
+        '
+        'bt_Vecuoi
+        '
+        Me.bt_Vecuoi.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.bt_Vecuoi.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.ic5
+        Me.bt_Vecuoi.Location = New System.Drawing.Point(822, 390)
+        Me.bt_Vecuoi.Name = "bt_Vecuoi"
+        Me.bt_Vecuoi.Size = New System.Drawing.Size(112, 58)
+        Me.bt_Vecuoi.TabIndex = 118
+        Me.bt_Vecuoi.UseVisualStyleBackColor = False
+        '
+        'bt_Vesau
+        '
+        Me.bt_Vesau.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.bt_Vesau.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.ic6
+        Me.bt_Vesau.Location = New System.Drawing.Point(663, 390)
+        Me.bt_Vesau.Name = "bt_Vesau"
+        Me.bt_Vesau.Size = New System.Drawing.Size(109, 58)
+        Me.bt_Vesau.TabIndex = 117
+        Me.bt_Vesau.UseVisualStyleBackColor = False
+        '
+        'bt_Vetruoc
+        '
+        Me.bt_Vetruoc.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.bt_Vetruoc.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.ic7
+        Me.bt_Vetruoc.Location = New System.Drawing.Point(497, 390)
+        Me.bt_Vetruoc.Name = "bt_Vetruoc"
+        Me.bt_Vetruoc.Size = New System.Drawing.Size(106, 58)
+        Me.bt_Vetruoc.TabIndex = 116
+        Me.bt_Vetruoc.UseVisualStyleBackColor = False
+        '
+        'bt_Vedau
+        '
+        Me.bt_Vedau.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.bt_Vedau.Image = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.ic4
+        Me.bt_Vedau.Location = New System.Drawing.Point(341, 390)
+        Me.bt_Vedau.Name = "bt_Vedau"
+        Me.bt_Vedau.Size = New System.Drawing.Size(115, 58)
+        Me.bt_Vedau.TabIndex = 115
+        Me.bt_Vedau.UseVisualStyleBackColor = False
+        '
+        'btXoa
+        '
+        Me.btXoa.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.btXoa.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btXoa.ForeColor = System.Drawing.Color.Blue
+        Me.btXoa.Location = New System.Drawing.Point(822, 329)
+        Me.btXoa.Name = "btXoa"
+        Me.btXoa.Size = New System.Drawing.Size(105, 43)
+        Me.btXoa.TabIndex = 114
+        Me.btXoa.Text = "Xóa"
+        Me.btXoa.UseVisualStyleBackColor = False
+        '
+        'btSua
+        '
+        Me.btSua.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.btSua.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btSua.ForeColor = System.Drawing.Color.Blue
+        Me.btSua.Location = New System.Drawing.Point(663, 329)
+        Me.btSua.Name = "btSua"
+        Me.btSua.Size = New System.Drawing.Size(105, 43)
+        Me.btSua.TabIndex = 113
+        Me.btSua.Text = "Sửa"
+        Me.btSua.UseVisualStyleBackColor = False
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
+        Me.Label1.Font = New System.Drawing.Font("Times New Roman", 16.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.ForeColor = System.Drawing.Color.Blue
+        Me.Label1.Location = New System.Drawing.Point(426, 11)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(291, 36)
+        Me.Label1.TabIndex = 5
+        Me.Label1.Text = "Thông tin sản phẩm"
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Panel1.Controls.Add(Me.Label1)
+        Me.Panel1.Location = New System.Drawing.Point(10, 116)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(1197, 62)
+        Me.Panel1.TabIndex = 110
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Button1.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.ForeColor = System.Drawing.Color.Blue
+        Me.Button1.Location = New System.Drawing.Point(1001, 390)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(142, 58)
+        Me.Button1.TabIndex = 131
+        Me.Button1.Text = "Thoát"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
+        'QLSanPham
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(14.0!, 29.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackgroundImage = Global.CuoiKiQLBanHangCTRang.My.Resources.Resources.nen1
+        Me.ClientSize = New System.Drawing.Size(1216, 680)
+        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.tbSL)
+        Me.Controls.Add(Me.tbGia)
+        Me.Controls.Add(Me.tbTen)
+        Me.Controls.Add(Me.tbLoai)
+        Me.Controls.Add(Me.TbMsp)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Panel2)
+        Me.Controls.Add(Me.btLuu)
+        Me.Controls.Add(Me.btThem)
+        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.bt_Vecuoi)
+        Me.Controls.Add(Me.bt_Vesau)
+        Me.Controls.Add(Me.bt_Vetruoc)
+        Me.Controls.Add(Me.bt_Vedau)
+        Me.Controls.Add(Me.btXoa)
+        Me.Controls.Add(Me.btSua)
+        Me.Controls.Add(Me.Panel1)
+        Me.Font = New System.Drawing.Font("Times New Roman", 13.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Margin = New System.Windows.Forms.Padding(5, 4, 5, 4)
+        Me.Name = "QLSanPham"
+        Me.Text = "QLSanPham"
+        Me.Panel2.ResumeLayout(False)
+        Me.Panel2.PerformLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+
+    Friend WithEvents tbSL As TextBox
+    Friend WithEvents tbGia As TextBox
+    Friend WithEvents tbTen As TextBox
+    Friend WithEvents tbLoai As TextBox
+    Friend WithEvents TbMsp As TextBox
+    Friend WithEvents Label9 As Label
+    Friend WithEvents Label8 As Label
+    Friend WithEvents Label7 As Label
+    Friend WithEvents Label3 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Panel2 As Panel
+    Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
+    Friend WithEvents PictureBox3 As PictureBox
+    Friend WithEvents Label6 As Label
+    Friend WithEvents btLuu As Button
+    Friend WithEvents btThem As Button
+    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents Button5 As Button
+    Friend WithEvents bt_Vecuoi As Button
+    Friend WithEvents bt_Vesau As Button
+    Friend WithEvents bt_Vetruoc As Button
+    Friend WithEvents bt_Vedau As Button
+    Friend WithEvents btXoa As Button
+    Friend WithEvents btSua As Button
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Panel1 As Panel
+    Friend WithEvents Button1 As Button
+End Class

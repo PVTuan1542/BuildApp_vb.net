@@ -1,0 +1,16 @@
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\bin\Debug\CuoiKiQLBanHangCTRang.exe.config
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\bin\Debug\CuoiKiQLBanHangCTRang.exe
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\bin\Debug\CuoiKiQLBanHangCTRang.pdb
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\bin\Debug\CuoiKiQLBanHangCTRang.xml
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.vbprojAssemblyReference.cache
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.Main.resources
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.Resources.resources
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.vbproj.GenerateResource.cache
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.vbproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.exe
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.xml
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.pdb
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.QLKhachHang.resources
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.QLSanPham.resources
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.QLHoaDon.resources
+D:\Hoc_Tap\Vb.net\Th_cô_Trang\CuoiKiQLBanHangCTRang\CuoiKiQLBanHangCTRang\obj\Debug\CuoiKiQLBanHangCTRang.ThongKe.resources

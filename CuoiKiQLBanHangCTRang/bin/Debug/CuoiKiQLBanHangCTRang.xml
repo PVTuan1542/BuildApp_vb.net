@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CuoiKiQLBanHangCTRang
+</name>
+</assembly>
+<members>
+<member name="T:CuoiKiQLBanHangCTRang.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.fb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.gg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.gioithieu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ic4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ic5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ic6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ic7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.kh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.nen1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.ql1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.quanly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp51">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.sp9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.spicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.tc1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.trangchu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CuoiKiQLBanHangCTRang.My.Resources.Resources.tw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
